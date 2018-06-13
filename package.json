@@ -1,0 +1,19 @@
+{
+  "name": "sponge",
+  "version": "1.0.0",
+  "description": "Multi User Checklist Sharing",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaidaken/Sponge.git"
+  },
+  "author": "Jamie Hewitt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaidaken/Sponge/issues"
+  },
+  "homepage": "https://github.com/jaidaken/Sponge#readme"
+}
